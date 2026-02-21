@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Matrix-style animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=WELCOME&fontSize=70&fontAlignY=35&animation=blink&fontColor=00ffcc&fontFamily=JetBrains%20Mono"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f64f59&height=200&section=header&text=WELCOME&fontSize=75&fontAlignY=35&animation=scaleIn&fontColor=FFFFFF&fontFamily=Montserrat"/>
 
 <!-- Neural Network Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
