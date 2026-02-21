@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f64f59&height=190&section=header&text=UDAYA+KUMAR+K+J&fontSize=72&fontAlignY=35&animation=scaleIn&fontColor=FFFFFF&fontFamily=Montserrat"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f64f59&height=190&section=header&text=UDAYA+KUMAR+K+J&fontSize=60&fontAlignY=35&animation=scaleIn&fontColor=FFFFFF&fontFamily=Montserrat"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Engineer;Backend+Architecture+Focused;Spring+Boot+%7C+React+%7C+Python;Scalable+Systems+%7C+Clean+Code" />
 
@@ -20,13 +20,13 @@
 - ⚡ Consistency > talent. No shortcuts.
 
 ---
-
+<div align="center">
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaya-kumar-k-j-26b120320/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/uday_gwd)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udaykjgowda@gmail.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UdayaKu58337851)
-
+</div>
 ---
 
 ## 💻 Core Tech Stack (Focused)
