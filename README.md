@@ -49,11 +49,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaygowda-cell&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=udaygowda-cell&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaygowda-cell&theme=dark&hide_border=true&layout=compact" />
-</div>
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=udaygowda-cell&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <img height="165"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=udaygowda-cell&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="140"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaygowda-cell&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 
 
