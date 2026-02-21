@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Matrix-style animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:12D640&height=200&section=header&text=UDAY&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=12D640"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0303,50:8b0000,100:ff0000&height=200&section=header&text=UDAY&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=12D640"/>
 
 
 
