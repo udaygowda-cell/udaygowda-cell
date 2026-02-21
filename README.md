@@ -1,8 +1,7 @@
 <div align="center">
   
 <!-- Matrix-style animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0303,50:3a0303,100:ff0000&height=200&section=header&text=WELCOME&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:0074D9&height=200&section=header&text=WELCOME&fontSize=78&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&fontFamily=Poppins"/>
 
 
 <!-- Neural Network Animation -->
