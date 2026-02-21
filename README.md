@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 ## 💫 About Me
 
@@ -19,14 +19,14 @@
 - 💬 Ask me about **backend logic & transitioning from theory to practice**
 - ⚡ Consistency > talent. No shortcuts.
 
----
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaya-kumar-k-j-26b120320/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/uday_gwd)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udaykjgowda@gmail.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UdayaKu58337851)
 
----
+
 
 ## 💻 Core Tech Stack (Focused)
 
@@ -48,7 +48,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=udaygowda-cell&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
