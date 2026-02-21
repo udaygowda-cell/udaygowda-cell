@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f64f59&height=190&section=header&text=WELCOME&fontSize=72&fontAlignY=35&animation=scaleIn&fontColor=FFFFFF&fontFamily=Montserrat"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Engineer;Backend+Architecture+Focused;Spring+Boot+%7C+React+%7C+Python;Scalable+Systems+%7C+Clean+Code;Building+the+Future+in+Neon" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="380" />
 
 </div>
