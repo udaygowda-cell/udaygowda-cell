@@ -1,3 +1,16 @@
+<div align="center">
+  
+<!-- Matrix-style animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:12D640&height=200&section=header&text=HANGMAN&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=12D640"/>
+
+
+
+<!-- Neural Network Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+</div>
+
+
 # 💫 About Me:
 🔭I’m currently working on<br>     Improving my full-stack development skills through hands-on practice and internship experience as a Java Full Stack Developer at JSpiders.<br><br>👯I’m looking to collaborate on<br>Projects that help me gain real development experience, especially backend services and database-driven applications.<br><br>🤔I’m looking for help with<br>Understanding how real companies structure large applications and how to write production-ready code.<br><br>🌱I’m currently learning<br>Spring Boot, API development, SQL optimization, Git, and basic DevOps concepts.<br><br>💬Ask me about<br>My learning roadmap, backend logic building, and transitioning from college theory to real development.<br><br>⚡Fun fact<br>I believe consistency beats talent in software development.
 
