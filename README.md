@@ -53,9 +53,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=udaygowda-cell&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=udaygowda-cell&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygowda-cell&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+
+ ![](https://github-readme-stats.vercel.app/api?username=udaygowda-cell&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+ ![](https://nirzak-streak-stats.vercel.app/?user=udaygowda-cell&theme=dark&hide_border=true)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygowda-cell&theme=dark&hide_border=true&layout=compact)
+</div
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=udaygowda-cell&theme=default&no-frame=true&no-bg=true&margin-w=4)
