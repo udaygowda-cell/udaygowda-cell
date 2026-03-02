@@ -7,7 +7,6 @@
 
 </div>
 
-njjjjjkh
 
 ## 💫 About Me
 
