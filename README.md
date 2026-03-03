@@ -6,8 +6,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="380" />
 
 </div>
-##💫 About Me
 
+## 💫 About Me
 - 🔭 Java Full Stack Developer trainee at **JSpiders**
 - 🌱 Building applications with **Spring Boot, REST APIs, HTML, CSS, JavaScript, SQL, and Git**
 - 👯 Open to collaborating on **full-stack real-world projects**
