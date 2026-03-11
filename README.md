@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+HTML+CSS+JS+%7C+SQL;Learning+by+Building+Real+Projects;Consistency+Over+Talent" />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="380" />
-
+dnd
 </div>
 
 ## 💫 About Me
