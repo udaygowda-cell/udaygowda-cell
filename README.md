@@ -14,7 +14,7 @@
 - 🤔 Learning how **end-to-end applications are structured and deployed**
 - 💬 Ask me about **logic building, APIs, and frontend–backend integration**
 - ⚡ Consistency over talent. No shortcuts.
-
+gg
 
 ## 🌐 Connect With Me
 
