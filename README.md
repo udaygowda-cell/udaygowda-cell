@@ -52,7 +52,7 @@
 
 <div align="center">
 
- ![](https://github-readme-stats.vercel.app/api?username=udaygowda-cell&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+ 
  ![](https://nirzak-streak-stats.vercel.app/?user=udaygowda-cell&theme=dark&hide_border=true)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygowda-cell&theme=dark&hide_border=true&layout=compact)
 </div
