@@ -8,6 +8,9 @@
 </div>
 
 ## 💫 About Me
+-  🔭 Part-Time Backend Developer at GK Healthcare
+ -🎓 Engineering Student (2026)
+- 💻 Java Full Stack Developer
 - 🔭 Java Full Stack Developer trainee at **JSpiders**
 - 🌱 Building applications with **Spring Boot, REST APIs, HTML, CSS, JavaScript, SQL, and Git**
 - 👯 Open to collaborating on **full-stack real-world projects**
