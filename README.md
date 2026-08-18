@@ -15,7 +15,6 @@
 - 🤝 Open to collaborating on real-world projects
 - ⚡ Consistency over talent. No shortcuts.
 
-
 ## 🌐 Connect With Me
 
 <div align="center">
