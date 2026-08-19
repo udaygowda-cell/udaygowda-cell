@@ -26,7 +26,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykjgowda@gmail.com)
 
 </div>
-## 💻 Core Tech Stack (Focused)
+##💻 Core Tech Stack (Focused)
 
 ### Backend & Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
