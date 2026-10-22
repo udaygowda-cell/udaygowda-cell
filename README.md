@@ -9,7 +9,6 @@
 </div>
 
 ## 💫 About Me
-- 💼 Part-Time Backend Developer at GK Healthcare
 - 🎓 Engineering Student (2026)
 - ☕ Java Full Stack Developer
 - 🚀 Building applications using Spring Boot, REST APIs, SQL and modern web technologies
